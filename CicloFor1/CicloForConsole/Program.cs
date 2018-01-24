@@ -15,7 +15,7 @@ namespace CicloForConsole
             a = Convert.ToInt32(Console.ReadLine());
             for (int i = 0; i < a; i++)
             {
-                Console.WriteLine("Lavoro Tpsit..");
+                Console.WriteLine("Lavoro Tpsit...");
 
             }
             Console.ReadLine();
